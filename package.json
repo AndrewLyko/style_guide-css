@@ -15,9 +15,9 @@
   "author": "Andrzej Łyko",
   "license": "Beerware",
   "bugs": {
-    "url": "https://github.com/mirek-t/style_guide-css/issues"
+    "url": "https://github.com/AndrewLyko/style_guide-css/issues"
   },
-  "homepage": "https://github.com/mirek-t/style_guide-css#readme",
+  "homepage": "https://github.com/AndrewLyko/style_guide-css#readme",
   "dependencies": {
     "normalize-scss": "^7.0.1"
   }
