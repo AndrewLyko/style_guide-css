@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mirek-t/style_guide.git"
+    "url": "git+https://github.com/AndrewLyko/style_guide-css.git"
   },
-  "author": "Mirosław Trumiński",
+  "author": "Andrzej Łyko",
   "license": "Beerware",
   "bugs": {
-    "url": "https://github.com/mirek-t/style_guide/issues"
+    "url": "https://github.com/mirek-t/style_guide-css/issues"
   },
-  "homepage": "https://github.com/mirek-t/style_guide#readme",
+  "homepage": "https://github.com/mirek-t/style_guide-css#readme",
   "dependencies": {
     "normalize-scss": "^7.0.1"
   }
