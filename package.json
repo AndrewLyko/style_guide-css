@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/AndrewLyko/style_guide-css#readme",
   "dependencies": {
-    "normalize-scss": "^7.0.1"
+    "normalize-scss": "^7.0.1",
+    "sass": "^1.54.4"
   }
 }
